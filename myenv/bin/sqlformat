@@ -1,4 +1,4 @@
-#!/Users/henpisithkun/myenv/bin/python
+#!/Users/henpisithkun/djangogirls/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
